@@ -1,2 +1,2 @@
 # Verilog-Code
-demo
+RTL Design Practice using Verilog
